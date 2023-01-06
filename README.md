@@ -52,6 +52,7 @@ Thank you for your consideration!
   - Description
 - -->
 
+
 <!--GITHUB STREAK-->
 <br>
 <p align = "center">
@@ -138,7 +139,6 @@ Thank you for your consideration!
   <img scr="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </table>
 -->
-
 
 <!--LINKEDIN CONNECTION-->
 <!--
