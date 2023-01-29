@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
 </div>
 
+
 <!--INTRODUCTION-->
 <h1 align="center"> Hi there, I'm Sartaj  </h1>
 
