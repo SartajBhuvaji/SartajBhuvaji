@@ -14,7 +14,7 @@
 <a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
 </div>
 <br />
-!-->
+-->
 
 <h2 align="center">About me </h2>
 <ul>
@@ -41,7 +41,7 @@
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=dittto&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/BigDataProject">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Brain-Tumor-Classification-Using-Deep-Learning-Algorithms&theme=tokyonight" />
       </a>  
     </td>
   </tr>
