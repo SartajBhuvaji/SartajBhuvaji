@@ -31,14 +31,14 @@
 <table align="center">
   <tr>
     <td valign="top" halign="center" width="100%">
-      <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+      <img width="400" src="https://github.com/SartajBhuvaji/dittto/blob/main/img/autoencoder_heatmap.png" />
        <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
      </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/SartajBhuvaji/ditttohttps://github.com/SartajBhuvaji/dittto">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=dittto&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/BigDataProject">
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
@@ -47,6 +47,7 @@
   </tr>
 </table>
 -->
+
 
 <!-- 
 </td>
