@@ -19,7 +19,7 @@
 
 <h2 align="center">About me </h2>
 <ul>
-  <li> A Graduate student in Computer Science Specializing in Data Science at Seattle University.
+  <li> Graduate student in Computer Science Specializing in Data Science at Seattle University.
   <li> Currently a passionate Data Science Researcher at SU, exploring data augmentation techniques to help solve class imbalance problems!
 </ul>  
 
