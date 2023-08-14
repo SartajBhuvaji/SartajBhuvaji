@@ -27,7 +27,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
 </p>
 
-
+<!--
 <h2 align="center"> Currently Working on</h2>
 <table align="center">
   <tr>
@@ -47,7 +47,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 <!--
 <table padding-top = 50px>
