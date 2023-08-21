@@ -15,6 +15,7 @@
 <a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
 </div>
 <br />
+
 -->
 
 <h2 align="center">About me </h2>
