@@ -3,8 +3,6 @@
 <br>
 
 
-
-
 <b>Hi there, I'm Sartaj </h1>
   <!--
   <div align="center">
@@ -23,6 +21,7 @@
 <ul>
   <li> Graduate student in Computer Science Specializing in Data Science at Seattle University.
   <li> Currently a passionate Data Science Researcher at SU, exploring data augmentation techniques to help solve class imbalance problems!
+  Hello
 </ul>  
 
 <p align = "center">
