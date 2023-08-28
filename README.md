@@ -21,7 +21,6 @@
 <ul>
   <li> Graduate student in Computer Science Specializing in Data Science at Seattle University.
   <li> Currently a passionate Data Science Researcher at SU, exploring data augmentation techniques to help solve class imbalance problems!
-  Hello
 </ul>  
 
 <p align = "center">
@@ -29,7 +28,6 @@
 </p>
 
 <!--
-
 <h2 align="center"> Currently Working on</h2>
 <table align="center">
   <tr>
@@ -49,7 +47,6 @@
     </td>
   </tr>
 </table>
-
 -->
 
 
@@ -101,5 +98,5 @@
 
 <h2 align="center"> </h2>
 <ul>
-  <li> <a href="https://www.linkedin.com/in/sartaj-bhuvaji-b762031b4/">LinkedIin</a> 
+  <li> <a href="https://www.linkedin.com/in/sartaj-bhuvaji-b762031b4/">Linked In</a> 
 </ul>  
