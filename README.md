@@ -2,12 +2,10 @@
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="hello" width="50">
 <br>
 
-
-
 <b>Hi there, I'm Sartaj </h1>
 
-
   <!--
+
   <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
