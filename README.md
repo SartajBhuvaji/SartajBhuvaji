@@ -3,7 +3,6 @@
 <br>
 
 
-<b>Hi there, I'm Sartaj</h1>
 
   <!--
   <div align="center">
