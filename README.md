@@ -4,7 +4,6 @@
 
 
 <b>Hi there, I'm Sartaj </h1>
-
   <!--
   <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
