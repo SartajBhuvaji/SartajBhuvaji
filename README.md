@@ -4,7 +4,6 @@
 
 
 <b>Hi there, I'm Sartaj </h1>
-
   <!--
   <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
@@ -22,7 +21,7 @@
 <ul>
   <li> Graduate student in Computer Science Specializing in Data Science at Seattle University.
   <li> Currently a passionate Data Science Researcher at SU, exploring data augmentation techniques to help solve class imbalance problems!
-  <li> Looking for SDE roles !
+  <li> Looking for New Grad SDE roles !
 </ul>  
 
 <p align = "center">
@@ -40,7 +39,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/SartajBhuvaji/ditttohttps://github.com/SartajBhuvaji/dittto">
+      <a href="https://github.com/SartajBhuvaji/Flask-app-Data-Augmentation">
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Flask-app-Data-Augmentation&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/BigDataProject">
