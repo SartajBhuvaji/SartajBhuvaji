@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="img" width="50">
+<img src="https://github.com/SartajBhuvaji/SartajBhuvaji/blob/main/resources/github_giphy.gif" alt="logo" width="50">
 <br>
 <p><b>Hi there, I'm Sartaj</p> </h1>
 
