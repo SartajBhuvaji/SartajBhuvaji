@@ -98,7 +98,9 @@
 
 -->
 
-<h2 align="center"> </h2>
-<ul>
-  <li> <a href="https://www.linkedin.com/in/sartaj-bhuvaji-b762031b4/">Linked In</a> 
-</ul>  
+<h2 align="center"> Connect</h2>
+<div align="center">
+  <a href="https://github.com/SartajBhuvaji/SartajBhuvaji/raw/main/resources/linkedin_batch.jpg">
+    <img src="https://github.com/SartajBhuvaji/SartajBhuvaji/raw/main/resources/linkedin_batch.jpg" alt="LinkedIn Batch" width="200">
+  </a>
+</div>
