@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="img" width="50">
 <br>
-<b>Hi there, I'm Sartaj </h1>
+<p><b>Hi there, I'm Sartaj</p> </h1>
 
 
 
