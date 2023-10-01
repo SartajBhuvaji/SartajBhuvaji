@@ -1,8 +1,7 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="hello" width="50">
-Hi there, I'm Sartaj 
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="img" width="50">
 <br>
-</h1>
+<b>Hi there, I'm Sartaj </h1>
 
 
 
@@ -16,7 +15,6 @@ Hi there, I'm Sartaj
 <a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
 </div>
 <br />
-
 -->
 
 <h2 align="center">About me </h2>
