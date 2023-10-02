@@ -2,9 +2,6 @@
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="hello" width="50">
 Hi there, I'm Sartaj 
 <br>
-<p><b>Hi there, I'm Sartaj</p> </h1>
-
-
 
   <!--
   <div align="center">
