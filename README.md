@@ -1,7 +1,8 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="img" width="50">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="hello" width="50">
+Hi there, I'm Sartaj 
 <br>
-<b>Hi there, I'm Sartaj </h1>
+<p><b>Hi there, I'm Sartaj</p> </h1>
 
 
 
@@ -97,7 +98,9 @@
 
 -->
 
-<h2 align="center"> </h2>
-<ul>
-  <li> <a href="https://www.linkedin.com/in/sartaj-bhuvaji-b762031b4/">Linked In</a> 
-</ul>  
+<h2 align="center"> Connect </h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sartajbhuvaji/">
+    <img src="https://github.com/SartajBhuvaji/SartajBhuvaji/raw/main/resources/linkedin_batch.jpg" alt="LinkedIn Batch" width="200">
+  </a>
+</div>
