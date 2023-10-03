@@ -4,15 +4,16 @@ Hi there, I'm Sartaj
 <br>
 
   <!--
-  <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
-<a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
-<a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
+  <Adds Technology badges>
+<div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
+  <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+  <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+  <a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
 </div>
-<br />
+<br/>
 -->
 
 <h2 align="center">About me </h2>
@@ -25,6 +26,7 @@ Hi there, I'm Sartaj
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
 </p>
+
 
 <!--
 <h2 align="center"> Currently Working on</h2>
@@ -41,7 +43,7 @@ Hi there, I'm Sartaj
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Flask-app-Data-Augmentation&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/BigDataProject">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Brain-Tumor-Classification-Using-Deep-Learning-Algorithms&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
       </a>  
     </td>
   </tr>
@@ -50,11 +52,13 @@ Hi there, I'm Sartaj
 
 
 <!--
+<MOST LANGUAGES USED WIDGET>
 <table padding-top = 50px>
-</td>
-<td valign="top" width="50%">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SartajBhuvaji&layout=compact&theme=radical" width="500" />
-</td></tr></table> 
+  </td>
+  <td valign="top" width="50%">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SartajBhuvaji&layout=compact&theme=radical" width="500" />
+  </td></tr>
+</table> 
 <br>  
 -->
 
@@ -92,12 +96,13 @@ Hi there, I'm Sartaj
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img scr="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </table>
-
 -->
 
+<!--
 <h2 align="center"> Connect </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/sartajbhuvaji/">
     <img src="https://github.com/SartajBhuvaji/SartajBhuvaji/raw/main/resources/linkedin_batch.jpg" alt="LinkedIn Batch" width="200">
   </a>
 </div>
+<!--
