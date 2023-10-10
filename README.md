@@ -4,7 +4,6 @@
 Hi there, I'm Sartaj 
 
 <br>
-
   <!--
   <Adds Technology badges>
 <div align="center">
