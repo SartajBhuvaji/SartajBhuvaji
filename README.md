@@ -37,7 +37,7 @@ My proficiency in Java, Python, TensorFlow, SQL, and big data tools, combined wi
 As I'm on track to graduate in June 2024, I'm actively seeking a full-time software engineering role, and I genuinely believe that my passion and knowledge would make me a great fit for your team!
 
 
-Thank you for considering me!
+Thank you for your consideration!
 
 
 
