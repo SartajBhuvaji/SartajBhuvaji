@@ -3,6 +3,22 @@
 
 Hi there, I'm Sartaj 
 
+<div align = "left">
+Hello, I'm Sartaj, a Computer Science graduate student at Seattle University, specializing in Data Science. What excites me most is building robust software systems and diving into the vast world of math and data science.
+
+Currently, as a data science researcher at my university, I'm involved in exploring synthetic data generation algorithms. Through this work, I've not only gained valuable research experience but also achieved concrete results – notably improving classification accuracy by 10% through fine-tuned data augmentation algorithms, which contributed to more accurate predictions and insights.
+
+In addition to my research, I have a strong passion for hands-on coding and project development. I've had the opportunity to work on big data projects where I've designed and implemented data pipelines using Spark and Airflow, facilitating efficient data processing and analytics.
+
+My proficiency in Java, Python, TensorFlow, SQL, and big data tools, combined with my deep commitment to data-driven problem-solving, makes me well-equipped to drive innovation in the field. I take pride in my strong teamwork and communication skills, which have been integral to the success of various collaborative projects.
+
+As I'm on track to graduate in June 2024, I'm actively seeking a full-time software engineering role, and I genuinely believe that my passion and knowledge would make me a great fit for your team!
+
+
+Thank you for considering me!
+
+<div>
+
 <br>
   <!--
   <Adds Technology badges>
