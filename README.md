@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="90"> 
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
 </div>
 
 <h1 align="center">
@@ -26,6 +26,7 @@ Hi there, I'm Sartaj
   <li> Looking for New Grad SDE roles!
 </ul>   -->
 
+<div>
 Hello, I'm Sartaj, a Computer Science graduate student at Seattle University, specializing in Data Science. What excites me most is building robust software systems and diving into the vast world of math and data science.
 
 Currently, as a data science researcher at my university, I'm involved in exploring synthetic data generation algorithms. Through this work, I've not only gained valuable research experience but also achieved concrete results – notably improving classification accuracy by 10% through fine-tuned data augmentation algorithms, which contributed to more accurate predictions and insights.
@@ -38,9 +39,8 @@ As I'm on track to graduate in June 2024, I'm actively seeking a full-time softw
 
 
 Thank you for your consideration!
-
-
-
+</div>
+<br>
 
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
