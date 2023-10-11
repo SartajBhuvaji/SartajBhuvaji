@@ -1,8 +1,10 @@
+<div align="center">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="90"> 
+</div>
+
 <h1 align="center">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="hello" width="50">
-
 Hi there, I'm Sartaj 
-
+</h1>
 <br>
   <!--
   <Adds Technology badges>
