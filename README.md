@@ -1,13 +1,16 @@
+<!--START-->
 
+<!--GITHUB GIF-->
 <div align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
 </div>
 
-
+<!--INTRODUCTION-->
 <h1 align="center"> Hi there, I'm Sartaj  </h1>
 
-  <!--
-  <Adds Technology badges>
+
+<!--BADGES-->
+<!--
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartajbhuvaji&label=Profile%20views&color=0e75b6&style=flat" alt="sartajbhuvaji" /> </p>
   <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -18,6 +21,8 @@
 </div>
 <br/>
 -->
+
+<!--ABOUT ME-->
 <h2 align="center">About me </h2>
 <!-- <ul>
   <li> Graduate student in Computer Science Specializing in Data Science at Seattle University.
@@ -38,46 +43,48 @@ As I'm on track to graduate in `June 2024`, I'm actively seeking a Full-Time Sof
 
 Thank you for your consideration!
 
+<!--GITHUB STREAK-->
 <br>
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
 </p>
 
 
-<!--
+<!--CURRENTLY WORKING ON-->
 <h2 align="center"> Currently Working on</h2>
 <table align="center">
-  <tr>
+<!--   <tr>
     <td valign="top" halign="center" width="100%">
       <img width="400" src="https://github.com/SartajBhuvaji/Flask-app-Data-Augmentation/blob/main/github_readme/density_plots.png" />
        <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
      </td>
-  </tr>
+  </tr> -->
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/SartajBhuvaji/Flask-app-Data-Augmentation">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Flask-app-Data-Augmentation&theme=tokyonight" />
+        <img width="400"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Flask-app-Data-Augmentation&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/BigDataProject">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
+        <img width="400"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
       </a>  
     </td>
   </tr>
 </table>
--->
 
 
+<!--TOP LANGUAGES-->
 <!--
-<MOST LANGUAGES USED WIDGET>
 <table padding-top = 50px>
   </td>
   <td valign="top" width="50%">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SartajBhuvaji&layout=compact&theme=radical" width="500" />
   </td></tr>
 </table> 
-<br>  
+<br>
 -->
 
+
+<!--FAV PROJECTS-->
 <!--
 <br>
 <table align="center">
@@ -104,16 +111,20 @@ Thank you for your consideration!
   </tr>
 </table>
 -->
+
+<!--LANGUAGE BADGES-->
 <!--
 <table><tr><td valign="top" width="100%">
-<h2 align="center"> 💼 Languages and Tools</h2>
-<br />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img scr="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <h2 align="center"> 💼 Languages and Tools</h2>
+  <br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img scr="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </table>
 -->
 
+
+<!--LINKEDIN CONNECTION-->
 <!--
 <h2 align="center"> Connect </h2>
 <div align="center">
@@ -122,3 +133,6 @@ Thank you for your consideration!
   </a>
 </div>
 <!--
+
+
+<!--END-->
