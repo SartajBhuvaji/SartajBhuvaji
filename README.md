@@ -90,10 +90,10 @@ Thank you for your consideration!
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Brain-Tumor-Classification-Using-Deep-Learning-Algorithms&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Brain-Tumor-Classification-Using-Deep-Learning-Algorithms&theme=tokyonight"/>
       </a>
      <a href="https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Steam-Big-Data-Pipeline&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Steam-Big-Data-Pipeline&theme=tokyonight"/>
       </a>  
     </td>
   </tr>
@@ -101,10 +101,10 @@ Thank you for your consideration!
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/SartajBhuvaji/Sentiment-Analysis">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Sentiment-Analysis&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Sentiment-Analysis&theme=tokyonight"/>
       </a>
       <a href="https://github.com/SartajBhuvaji/Story-Forge">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Story-Forge&theme=tokyonight" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Story-Forge&theme=tokyonight"/>
       </a>  
     </td>
   </tr>
