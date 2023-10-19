@@ -74,6 +74,7 @@ Thank you for your consideration!
 
 
 <!--FAV PROJECTS-->
+<!--
 <br>
 <table align="center">
   <tr>
@@ -81,12 +82,12 @@ Thank you for your consideration!
       <h2 align="center">My favorite projects</h2>
     </td>
   </tr>
-<!--   <tr>
+   <tr>
     <td valign="top" halign="center" width="100%">
       <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
        <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
      </td>
-  </tr> -->
+  </tr> 
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms">
@@ -97,7 +98,6 @@ Thank you for your consideration!
       </a>  
     </td>
   </tr>
-
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/SartajBhuvaji/Sentiment-Analysis">
@@ -108,9 +108,8 @@ Thank you for your consideration!
       </a>  
     </td>
   </tr>
-  
 </table>
-
+-->
 
 <!--TOP LANGUAGES-->
 <!--
