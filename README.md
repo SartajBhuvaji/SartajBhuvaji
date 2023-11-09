@@ -57,7 +57,7 @@ Thank you for your consideration!
        <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
      </td>
   </tr> -->
-  <tr>
+  <tr align="center">
     <td valign="top" width="100%">
       <a href="https://github.com/SartajBhuvaji/Data-Science-Research-FlaskApp">
         <img width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research-FlaskApp&theme=tokyonight" />
