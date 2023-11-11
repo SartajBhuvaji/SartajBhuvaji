@@ -60,10 +60,10 @@ Thank you for your consideration!
   <tr align="center">
     <td valign="top" width="100%">
       <a href="https://github.com/SartajBhuvaji/Data-Science-Research-FlaskApp">
-        <img width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research-FlaskApp&theme=tokyonight" />
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research-FlaskApp&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/PawsConnect">
-        <img width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
       </a>  
     </td>
   </tr>
