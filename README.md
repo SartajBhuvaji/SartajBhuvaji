@@ -69,8 +69,6 @@ Thank you for your consideration!
   </tr>
 </table>
 
-
-
 <!--FAV PROJECTS-->
 <!--
 <br>
