@@ -21,6 +21,7 @@
 <br/>
 -->
 
+
 <!--ABOUT ME-->
 <h2 align="center">About me </h2>
 <!-- <ul>
@@ -28,7 +29,6 @@
   <li> Currently a passionate Data Science Researcher at SU, exploring data augmentation techniques to help solve class imbalance problems!
   <li> Looking for New Grad SDE roles!
 </ul>   -->
-
 
 Hello, my name is <b>Sartaj</b>, a `Computer Science` graduate student at Seattle University, `specializing in Data Science`. What excites me most is building robust software systems and diving into the vast world of math and data science.
 
