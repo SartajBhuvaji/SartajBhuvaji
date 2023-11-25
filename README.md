@@ -49,6 +49,8 @@ Thank you for your consideration!
   - Description
 - Paws Connect 
   - Description
+- LLM Projects
+  - Description
 - -->
 
 <!--GITHUB STREAK-->
