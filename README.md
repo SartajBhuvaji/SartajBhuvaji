@@ -41,7 +41,6 @@ As I'm on track to graduate in `June 2024`, I'm actively seeking a Full-Time Sof
 
 Thank you for your consideration!
 
-
 <!-- Adding one liner for each project
 - GTA V
   - Description
