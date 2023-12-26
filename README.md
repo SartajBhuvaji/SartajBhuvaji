@@ -70,11 +70,11 @@ Thank you for your consideration!
   <tr align="center">
     <td valign="top" width="100%">
       <a href="https://github.com/SartajBhuvaji/Data-Science-Research">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research&theme=tokyonight" />
+        <img width="100%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research&theme=tokyonight" />
       </a>
-      <a href="https://github.com/SartajBhuvaji/PawsConnect">
+<!--       <a href="https://github.com/SartajBhuvaji/PawsConnect">
         <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
-      </a>  
+      </a>   -->
     </td>
   </tr>
 </table>
