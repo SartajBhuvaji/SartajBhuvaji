@@ -54,6 +54,7 @@ Thank you for your consideration!
   - Description
 - -->
 
+
 <!--GITHUB STREAK-->
 <br>
 <p align = "center">
@@ -71,8 +72,8 @@ Thank you for your consideration!
   </tr> -->
   <tr align="center">
     <td valign="top" width="100%">
-      <a href="https://github.com/SartajBhuvaji/Data-Science-Research-FlaskApp">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research-FlaskApp&theme=tokyonight" />
+      <a href="https://github.com/SartajBhuvaji/Data-Science-Research">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Data-Science-Research&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/PawsConnect">
         <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=PawsConnect&theme=tokyonight" />
