@@ -139,7 +139,6 @@ Thank you for your consideration!
 </table>
 -->
 
-
 <!--LINKEDIN CONNECTION-->
 <!--
 <h2 align="center"> Connect </h2>
