@@ -8,7 +8,6 @@
 <!--INTRODUCTION-->
 <h1 align="center"> Hi there, I'm Sartaj  </h1>
 
-
 <!--BADGES-->
 <!--
 <div align="center">
@@ -21,6 +20,7 @@
 </div>
 <br/>
 -->
+
 
 <!--ABOUT ME-->
 <h2 align="center">About me </h2>
