@@ -140,6 +140,13 @@ Thank you for your consideration!
 </table>
 -->
 
+<!--PROFILE STATS-->
+<!--
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SartajBhuvaji&theme=radical)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodavid&theme=github)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jodavid&theme=github)](#)
+-->
+
 <!--LINKEDIN CONNECTION-->
 <!--
 <h2 align="center"> Connect </h2>
@@ -148,5 +155,5 @@ Thank you for your consideration!
     <img src="https://github.com/SartajBhuvaji/SartajBhuvaji/raw/main/resources/linkedin_batch.jpg" alt="LinkedIn Batch" width="200">
   </a>
 </div>
-<!--
+-->
 <!--END-->
