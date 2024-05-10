@@ -142,9 +142,9 @@ Thank you for your consideration!
 
 <!--PROFILE STATS-->
 <!--
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SartajBhuvaji&theme=radical)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodavid&theme=github)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jodavid&theme=github)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SartajBhuvaji&theme=tokyonight)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SartajBhuvaji&theme=tokyonight)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SartajBhuvaji&theme=tokyonight)](#)
 -->
 
 <!--LINKEDIN CONNECTION-->
