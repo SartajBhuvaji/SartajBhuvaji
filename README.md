@@ -30,17 +30,26 @@
   <li> Looking for New Grad SDE roles!
 </ul>   -->
 
-Hello, my name is <b>Sartaj</b>, a `Computer Science` graduate student at Seattle University, `specializing in Data Science`. What excites me most is building robust software systems and diving into the vast world of math and data science.
 
-Currently, as a `data science researcher` at my university, I'm involved in exploring synthetic data generation algorithms. Through this work, I've not only gained valuable research experience but also achieved concrete results – notably improving classification accuracy by `10%` through fine-tuned data augmentation algorithms, which contributed to more accurate predictions and insights.
+I'm a Computer Science graduate from Seattle University, specializing in Data Science. My passion lies in solving problems through programming. I enjoy coding and building projects, as well as exploring the nuances and theories of data science. My goal is to leverage AI to solve real-world problems.
 
-In addition to my research, I have a strong passion for hands-on coding and project development. I've had the opportunity to work on big data projects where I've designed and implemented `data pipelines` using Spark and Airflow, facilitating efficient data processing and analytics.
+## 🚀 My Journey
 
-My proficiency in Java, Python, TensorFlow, SQL, and big data tools, combined with my deep commitment to data-driven problem-solving, makes me well-equipped to drive innovation in the field. I take pride in my strong teamwork and communication skills, which have been integral to the success of various collaborative projects.
+As a `Data Science Research Assistant` at Seattle University, I've been diving deep into the fascinating world of synthetic data generation. This experience has been incredibly rewarding, allowing me to push the boundaries of what's possible with data augmentation. I'm proud to say that our work has led to my paper being accepted in DaWaK 2024.
 
-As I'm on track to graduate in `June 2024`, I'm actively seeking a Full-Time Software Engineering role, and I genuinely believe that my passion and knowledge would make me a great fit for your team!
+My journey in tech isn't just about research, though. I love getting my hands dirty with code and building practical solutions. I've had the exciting opportunity to work on big data projects, where I've designed and implemented `data pipelines` using cutting-edge tools like Spark and Airflow. These projects have not only honed my technical skills but also reinforced my belief in the power of data-driven decision-making.
 
-Thank you for your consideration!
+## 💡 What Drives Me
+
+I'm driven by the endless possibilities that lie at the intersection of software engineering and data science. Whether it's experimenting with `LLMs`, fine-tuning models, or building efficient data architectures, I'm always eager to learn and apply new technologies.
+
+My toolkit includes Python, Java, TensorFlow, SQL, and various big data tools. But beyond the technical skills, I pride myself on my ability to collaborate effectively and communicate complex ideas simply. These soft skills have been crucial in the success of my projects, from developing the `Resonate` framework for meeting insight extraction to creating streaming big data pipelines using AWS.
+
+## 🎓 Looking Ahead
+
+As I graduated in `June 2024`, I'm excited about the next chapter in my career. I'm actively seeking a Full-Time Software Engineering and Data Science role where I can contribute my skills in software development, data engineering and data science. I'm particularly interested in roles that allow me to work on challenging problems and continue learning in this ever-evolving field.
+
+I believe my unique blend of research experience, practical project work, and passion for innovation makes me well-equipped to drive meaningful impact in any tech team.
 
 <!-- Adding a one-liner for each project
 - GTA V
