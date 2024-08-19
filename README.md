@@ -80,10 +80,10 @@ I believe my unique blend of research experience, practical project work, and pa
   <tr align="center">
     <td valign="top" width="100%">
       <a href="https://github.com/SartajBhuvaji/Cuda">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Cuda&theme=tokyonight" />
+        <img width="50%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Cuda&theme=tokyonight" />
       </a>
       <a href="https://github.com/SartajBhuvaji/Chess-Engine">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Chess-Engine&theme=tokyonight" />
+        <img width="50%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Chess-Engine&theme=tokyonight" />
       </a>  
     </td>
   </tr>
