@@ -31,25 +31,8 @@
 </ul>   -->
 
 
-I'm a Computer Science graduate from Seattle University, specializing in Data Science. My passion lies in solving problems through programming. I enjoy coding and building projects, as well as exploring the nuances and theories of data science. My goal is to leverage AI to solve real-world problems.
+Hi, my name is Sartaj. I recently completed my Master’s in Computer Science with a specialization in Data Science. In my previous role at TCS, I designed and developed AML (Anti-Money Laundering) data pipelines, delivering scalable and efficient solutions. Additionally, as an ML researcher at Seattle University, I contributed to cutting-edge projects, with research papers soon to be published in IEEE and ACM. I’m passionate about building innovative projects, exploring new technologies, and continuously expanding my knowledge in the field.
 
-## 🚀 My Journey
-
-As a `Data Science Research Assistant` at Seattle University, I've been diving deep into the fascinating world of synthetic data generation. This experience has been incredibly rewarding, allowing me to push the boundaries of what's possible with data augmentation. I'm proud to say that our work has led to my paper being accepted in DaWaK 2024.
-
-My journey in tech isn't just about research, though. I love getting my hands dirty with code and building practical solutions. I've had the exciting opportunity to work on big data projects, where I've designed and implemented `data pipelines` using cutting-edge tools like Spark and Airflow. These projects have not only honed my technical skills but also reinforced my belief in the power of data-driven decision-making.
-
-## 💡 What Drives Me
-
-I'm driven by the endless possibilities that lie at the intersection of software engineering and data science. Whether it's experimenting with `LLMs`, fine-tuning models, or building efficient data architectures, I'm always eager to learn and apply new technologies.
-
-My toolkit includes Python, Java, TensorFlow, SQL, and various big data tools. But beyond the technical skills, I pride myself on my ability to collaborate effectively and communicate complex ideas simply. These soft skills have been crucial in the success of my projects, from developing the `Resonate` framework for meeting insight extraction to creating streaming big data pipelines using AWS.
-
-## 🎓 Looking Ahead
-
-As I graduated in `June 2024`, I'm excited about the next chapter in my career. I'm actively seeking a Full-Time Software Engineering and Data Science role where I can contribute my skills in software development, data engineering and data science. I'm particularly interested in roles that allow me to work on challenging problems and continue learning in this ever-evolving field.
-
-I believe my unique blend of research experience, practical project work, and passion for innovation makes me well-equipped to drive meaningful impact in any tech team.
 
 <!-- Adding a one-liner for each project
 - GTA V
