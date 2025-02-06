@@ -65,11 +65,11 @@ Hi, my name is Sartaj. I recently completed my Master’s in Computer Science wi
       <a href="https://github.com/SartajBhuvaji/Cuda">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Cuda&theme=tokyonight" />
       </a>
-      <a href="https://github.com/SartajBhuvaji/Chess-Engine">
+<!--       <a href="https://github.com/SartajBhuvaji/Chess-Engine">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Chess-Engine&theme=tokyonight" />
       </a>  
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <!--FAV PROJECTS-->
