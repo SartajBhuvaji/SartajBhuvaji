@@ -48,11 +48,11 @@ Hi, my name is Sartaj. I recently completed my Master’s in Computer Science wi
 <!--GITHUB STREAK-->
 <br>
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji"/>
 </p>
 
 <!--CURRENTLY WORKING ON-->
-<h2 align="center"> Currently Working on </h2>
+<h2 align="center"> Highlights </h2> 
 <table align="center">
 <!--   <tr>
     <td valign="top" halign="center" width="100%">
@@ -65,11 +65,11 @@ Hi, my name is Sartaj. I recently completed my Master’s in Computer Science wi
       <a href="https://github.com/SartajBhuvaji/Cuda">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Cuda&theme=tokyonight" />
       </a>
-<!--       <a href="https://github.com/SartajBhuvaji/Chess-Engine">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Chess-Engine&theme=tokyonight" />
+      <a href="https://github.com/SartajBhuvaji/Advent-of-Code">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Advent-of-Code&theme=tokyonight" />
       </a>  
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 <!--FAV PROJECTS-->
