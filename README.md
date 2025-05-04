@@ -65,8 +65,8 @@ Hi, my name is Sartaj. I recently completed my Master’s in Computer Science wi
       <a href="https://github.com/SartajBhuvaji/Cuda">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Cuda&theme=tokyonight" />
       </a>
-      <a href="https://github.com/SartajBhuvaji/Advent-of-Code">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Advent-of-Code&theme=tokyonight" />
+      <a href="https://github.com/SartajBhuvaji/Resonate">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Resonate&theme=tokyonight" />
       </a>  
     </td>
   </tr>
